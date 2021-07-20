@@ -8,4 +8,5 @@ In this project, I want to analysie a jobs dataset from website Naukri, a job po
 6. The Most Needed Skills for Each Industry
 7. Average Minimal Year Experience for Each Industry
 8. Average Maximal Year Experience for Eache Industry
+
 In the end of this project, I make an interactive function to find a job based on some criteria, such as year experience, degree, skills, and location
