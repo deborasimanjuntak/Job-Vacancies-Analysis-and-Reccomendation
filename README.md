@@ -1,5 +1,5 @@
 # Job-Vacancies-Analysis-and-Reccomendation
-In this project, I want to analysie a jobs dataset from website Naukri, a job portal in India. This data contains of available job vacancies and some qualifications related to the position, such as education, year experience, industry, location, and skills. There are many things we can find from the dataset, and this is the summary of this analysis.
+In this project, I want to analyse a jobs dataset from website Naukri, a job portal in India. This data contains of available job vacancies and some qualifications related to the position, such as education, year experience, industry, location, and skills. There are many things we can find from the dataset, and this is the summary of this analysis.
 1. The Most in demand Degrees in Job Vacancies
 2. Industries with Highest Job Opportunities
 3. Cities with Highest Job Opportunities in India
